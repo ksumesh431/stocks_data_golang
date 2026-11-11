@@ -1,0 +1,13 @@
+# Personal financial data and generated outputs
+Reports/
+
+# Local binaries and generated files
+/stocks_project
+*.exe
+*.csv
+*.xlsx
+!prices.example.csv
+
+# Go build/test artifacts
+*.test
+*.out
